@@ -41,10 +41,15 @@ body {
     
 }
 
-.sottointestazione {
+.jumbotron {
     height: 400px;
-    background-color: red;
     margin-bottom: 20px;
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 1%;
+    background-color: black;
 
 
 }
