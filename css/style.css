@@ -12,7 +12,6 @@ body {
     width: 60%;
     margin: 0 auto;
     height: 50px;
-    
 }
 
 .container-logo-titolo {
@@ -28,15 +27,14 @@ body {
     color: grey;
     cursor: pointer;
     text-decoration: none;
-
+    font-size: small;
 }
+
 .img-size {
     height: auto;
     width: 20%;
     padding-right: 20px;
     border-right: solid 1px lightgrey;
-    
-    
 }
 
 .jumbotron {
@@ -47,7 +45,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 1%;
-
 }
 
 .jumbo-text {
@@ -55,7 +52,6 @@ body {
     padding: 30% 0% 0% 5%;
     width: 60%;
     color: rgb(182, 92, 122);
-
 }
 
 .p-jumbo {
@@ -70,8 +66,6 @@ body {
     content:"";
     display: table;
     clear: both;
-   
-
 }
 
 .titolo-main{
@@ -79,7 +73,6 @@ body {
     background-color: white;  
     margin-bottom: 10px;  
 }
-
 
 
 .colonna-left {
@@ -99,6 +92,7 @@ body {
     background-size: cover;
     border-radius: 5%;
 }
+
 .titolo-p-main-line {
     line-height: 3em;
     font-size: small;
@@ -129,8 +123,6 @@ body {
     background-size: cover;
     border-radius: 2%;
     background-position: center;
-
-
 }
 
  .colonna-right {
@@ -148,7 +140,6 @@ body {
     background-size: auto;
     border-radius: 5%;
     background-position: center;
-
 }
 
 
@@ -161,9 +152,6 @@ body {
     margin-bottom: 50px;
 }
 
-.margine-finale {
-    height: 5px;
-}
 
 .titolo-main p {
     font-size: small;
@@ -178,5 +166,4 @@ body {
     text-align: center;
     font-size: x-small;
     color: rgb(163, 163, 163);
-
 }
